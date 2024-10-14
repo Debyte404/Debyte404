@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/debyte"><img src="./devcard.png" width="356" alt="Ankit Chetri's Dev Card"/></a>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/debyte)
+[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/debyte)
