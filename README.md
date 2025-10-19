@@ -1,6 +1,6 @@
 <!-- Centered banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Debyte+(Ankit+Chetri)!;I+build+for+web+%E2%86%92+hardware+%E2%86%92+%F0%9F%A4%96+emergent+ideas;Coffee%2C+cats%2C+robots%2C+and+really+good+mornings+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Debyte+(Ankit+Chetri)!;I+build+for+web+%E2%86%92+hardware+%E2%86%92+%F0%9F%A4%96+emergent+ideas;Caffeine%2C+cats%2C+robots%2C+and+good+mornings+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
