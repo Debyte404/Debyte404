@@ -7,7 +7,7 @@
   <a href="https://github.com/Debyte404"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Debyte404?style=for-the-badge&logo=github"></a>
   <a href="https://github.com/Debyte404?tab=stars"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Debyte404?affiliations=OWNER&style=for-the-badge"></a>
   <a href="mailto:ankit.byte.404@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankit.byte.404%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/ankit-chetri-910b46300"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20Chetri-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/ankit-chetri-debyte-910b46300/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20Chetri-0A66C2?style=for-the-badge&logo=linkedin"></a>
   <a href="https://debyte.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-debyte.vercel.app-black?style=for-the-badge&logo=vercel"></a>
 </p>
 
