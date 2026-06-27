@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,50:8B5CF6,100:F43F5E&text=Ankit%20Chetri&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=Cat-coded%20Frontend%20Engineer%20%7C%20Systems%20Learner%20%7C%20Hardware%20Builder&descSize=16&descAlignY=58" alt="Ankit Chetri - Cat-coded Frontend Engineer, Systems Learner, Hardware Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,50:8B5CF6,100:F43F5E&text=Ankit%20Chetri&font=Doto&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=Cat-coded%20Frontend%20Engineer%20%7C%20Systems%20Learner%20%7C%20Hardware%20Builder&descSize=16&descAlignY=58" alt="Ankit Chetri - Cat-coded Frontend Engineer, Systems Learner, Hardware Builder" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Doto&weight=800&size=30&duration=2600&pause=800&color=F43F5E&center=true&vCenter=true&width=900&lines=cat-coded+builder+with+sharp+debugging+claws;frontend+polish+%2B+systems+curiosity;GPU+rays+%2B+ESP32+paws+%2B+C+internals;shipping+clean+interfaces+one+soft+paw+at+a+time" alt="Typing SVG with Doto font" />
 </p>
 
 <p align="center">
   <a href="https://debyte.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-debyte.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/Debyte404"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Debyte404-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ankit-chetri-debyte"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20Chetri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ankit-chetri-debyte-910b46300/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20Chetri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ankit.byte.404@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankit.byte.404%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -247,7 +251,7 @@
 <p align="center">
   <a href="mailto:ankit.byte.404@gmail.com"><b>Email</b></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ankit-chetri-debyte"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/ankit-chetri-debyte-910b46300/"><b>LinkedIn</b></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://debyte.vercel.app/"><b>Portfolio</b></a>
 </p>
