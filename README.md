@@ -138,7 +138,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Debyte404/CLIT">CLIT</a></h3>
+      <h3><a href="https://github.com/Debyte404/CGIT">CGIT</a></h3>
       <p>Git-like version control system written in C.</p>
       <p>
         <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
